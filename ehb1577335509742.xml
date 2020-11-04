@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//KOMATSU//DTD DITA Composite//EN" "KomatsuDitabase.dtd">
+<concept id="ehb1577335509742" xml:lang="en-JM"><title>ラジエータ水位警告灯について</title><prolog><author type="company">komatsu</author><metadata><category>operation</category><keywords><indexterm>ラジエータ水位警告灯について<index-sort-as>らじえーたすいいけいこくとうについて</index-sort-as></indexterm></keywords><prodinfo><prodname>wheel loader</prodname><vrmlist><vrm version="WA470-8"/></vrmlist><component>engine_cooling</component><series>construction</series></prodinfo>
+<othermeta content="om" name="manual"/>
+<othermeta content="-" name="kmsl"/>
+<othermeta content="no" name="contents_review"/>
+<othermeta content="no" name="standard_writing_style"/>
+<othermeta content="-" name="acrolinx"/>
+<othermeta content="-" name="reuse"/>
+<othermeta content="vehicle" name="check_section"/>
+<othermeta content="no" name="color_illustration"/>
+<othermeta content="no" name="improvement"/>
+<othermeta content="no" name="crossfade_movie"/>
+<othermeta content="no" name="3d_scenario"/></metadata></prolog><conbody><p>ラジエータ水位警告灯は、ラジエータ冷却水量の低下を警告します。</p><image href="bro1532914428176.image" outputclass="frame=all"/>
+<dl>
+<dlentry>
+<dt>水量低下継続時</dt>
+<dd>
+<p>警告灯が赤色点灯し、警告ブザーが断続的に鳴り、アクションレベル<q><keyword outputclass="monitor">L02</keyword></q>を表示します。</p>
+<p>作業を停止し、安全な場所へ移動後、ラジエータの冷却水量を点検し、冷却水を補給してください。</p>
+<p>ラジエータのリザーバタンクの冷却水量を点検し、補給してください。</p>
+<p><q><xref format="dita" href="unu1577335545398.xml" scope="local" type="task"/></q>の項を参照してください。</p>
+</dd>
+</dlentry>
+<dlentry>
+<dt>水量低下時</dt>
+<dd>
+<p>警告灯が黄色点灯し、アクションレベル<q><keyword outputclass="monitor">L01</keyword></q>を表示します。</p>
+<p>ラジエータの冷却水量が不足しています。</p>
+<p>ラジエータのリザーバタンクの冷却水量を点検し、補給してください。</p>
+<p><q><xref format="dita" href="unu1577335545398.xml" scope="local" type="task"/></q>の項を参照してください。</p>
+<p>短時間で再発する場合は、ラジエータの水漏れが考えられます。当社販売サービス代理店に点検、整備を依頼してください。</p>
+</dd>
+</dlentry>
+</dl></conbody></concept>
